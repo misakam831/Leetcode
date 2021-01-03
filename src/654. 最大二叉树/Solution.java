@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 class TreeNode {
     int val;
     TreeNode left;
