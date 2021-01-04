@@ -50,6 +50,5 @@ public class Seletcion {
         Selection(a);
         assert isSorted(a);
         show(a);
-
     }
 }
